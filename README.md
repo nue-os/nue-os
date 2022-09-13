@@ -1,19 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**silver0108/silver0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soeun's%20Github🖤&fontSize=90" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+Hi 👋🏻 <br>
+I'm Soeun Kim. <br>
+</div>
+<br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=silver0108)](https://solved.ac/silver0108)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=rose_pine&show_icons=true)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeun0108)](https://solved.ac/soeun0108)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=soeun0108&theme=dark)
+
+</div>
