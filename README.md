@@ -5,9 +5,10 @@
 
 <div>
 Hi 👋🏻 <br>
-I'm Soeun Kim. <br>
+I'm Soeun Kim. <br><br>
+🤍🖤
 </div>
-<br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=rose_pine&show_icons=true)
 
