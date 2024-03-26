@@ -47,7 +47,7 @@ I'm Soeun Kim.
 
 <div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver0108&layout=compact)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver0108&layout=compact) -->
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silver0108&theme=rose_pine&show_icons=true)
 
