@@ -2,10 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Welcome&desc=Soeun's%20Github&fontSize=60&descAlignY=70&animation=fadeIn" />
 
-<div>
-<h3> Hi there 👋🏻 </h3>
-I'm Soeun Kim. 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=696969&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Soeun%20Kim.%20👋🏻+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
 </div>
 &nbsp&nbsp
 <h2>💻 Tech Stack</h3>
@@ -47,15 +45,10 @@ I'm Soeun Kim.
 <br>
 <br>
 <br>
+ 
+<a href="https://github.com/silver0108">
+  <img src="https://github-readme-stats.vercel.app/api?username=silver0108&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=b4d8e7&count_private=true" width=48% />
+</a>
 
-<div>
-  
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver0108&layout=compact) -->
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silver0108&theme=rose_pine&show_icons=true)
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeun0108)](https://solved.ac/soeun0108)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=soeun0108&theme=dark)
-</div>
-
-</div>
+<a href="https://github.com/silver0108"><img style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver0108&layout=compact&hide_border=true&bg_color=20232a&title_color=fff&text_color=fff" /></a> 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeun0108)](https://solved.ac/soeun0108)
