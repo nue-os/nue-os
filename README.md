@@ -21,10 +21,10 @@
   <li>Diglab Challenge Hackerthon Grand Prize 🏆, Jeju RIS. (2024.12)</li>
   <li>Boost Camp Web/Mobile 9th Challenge, Naver Connect. (2024.07 - 2024.08)
   <li>Financial information protection Intern, Korea Fiscal Information Service. (2024.06 - 2024.07)</li>
-  <li>Fast campus 7th Programmer Projectship Front-end. (2022.04 - 2022.06)</li>
-  <li>2024 Open Source Academy Contribution Experience, NIPA. (2024.04 - 2022.05)</li>
-  <li>Software QA Test Intern, RaonSecure. (2022.02 - 2022.07)</li>
+  <li>Fast campus 7th Programmer Projectship Front-end. (2024.04 - 2024.06)</li>
+  <li>2024 Open Source Academy Contribution Experience, NIPA. (2024.04 - 2024.05)</li>
   <li>LikeLion 10th at Kookmin Univ. (2022.03 - 2023.02)></li>
+  <li>Software QA Test Intern, RaonSecure. (2022.02 - 2022.07)</li>
 </ul>
 
 <br/>
