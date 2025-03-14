@@ -17,7 +17,7 @@
 
 <h3>☁️ Experience</h3>
 <ul>
-  <li>Ureca SW Academy 2nd Front-end, LG U+. (2025.02 - ing)</li>
+  <li>Ureca SW Academy 2nd Front-end, LG U+. (2025.01 - ing)</li>
   <li>Diglab Challenge Hackerthon Grand Prize 🏆, Jeju RIS. (2024.12)</li>
   <li>Boost Camp Web/Mobile 9th Challenge, Naver Connect. (2024.07 - 2024.08)
   <li>Financial information protection Intern, Korea Fiscal Information Service. (2024.06 - 2024.07)</li>
