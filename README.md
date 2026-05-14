@@ -17,7 +17,7 @@
 
 <h3>☁️ Experience</h3>
 <ul>
-  <li>CMC 19th Web, IT Development Club. (2026.05 - ing)</li>
+  <li>CMC 19th Web, Revenue-generating App Launching Club. (2026.05 - ing)</li>
   <li>Ureca SW Academy 2nd Front-end, LG U+. (2025.01 - 2025.08)</li>
   <li>Diglab Challenge Hackerthon Grand Prize 🏆, Jeju RIS. (2024.12)</li>
   <li>Boost Camp Web/Mobile 9th Challenge, Naver Connect. (2024.07 - 2024.08)
